@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href ="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="t.me/@khvorostinn"/>
                                                                                                                                </a>                                         <a href ="your-vk-URL">                                                                            
   <img src="https://img.shields.io/badge/Вконтаке-blue?logo=vk&logoColor=white&style=for-the-badge alt="VK badge"/>
   </a>
