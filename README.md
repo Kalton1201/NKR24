@@ -5,7 +5,7 @@
   <a href ="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="t.me/@khvorostinn"/>
                                                                                                                                </a>                                         <a href ="your-vk-URL">                                                                            
-  <img src="https://img.shields.io/badge/Вконтаке-blue?logo=vk&logoColor=white&style=for-the-badge alt="VK badge"/>
+  <img src="https://img.shields.io/badge/Вконтаке-blue?logo=vk&logoColor=white&style=for-the-badge alt="https://vk.com/khvorostinn"/>
   </a>
   <a href ="your-instagram-URL">
   <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram badge" width="88"/>
